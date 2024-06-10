@@ -34,6 +34,8 @@ You can connect to the server for play at [EC2-PUBLIC-IP]:25565 (Port 25565 on t
 
 These are the steps the automated script follows to launch and configure the Minecraft server:
 
+_Terraform is initialized_
+
 _Terraform script begins_
 
 _Terraform launches EC2
